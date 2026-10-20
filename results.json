@@ -1,0 +1,24 @@
+{
+    "model": "Logistic Regression From Scratch",
+    "training_records": 375,
+    "testing_records": 125,
+    "accuracy": 0.848,
+    "precision": 0.8095238095238095,
+    "recall": 0.7555555555555555,
+    "confusion_matrix": [
+        [
+            72,
+            8
+        ],
+        [
+            11,
+            34
+        ]
+    ],
+    "weights": [
+        2.7572796615816113,
+        2.1799853671943916
+    ],
+    "bias": -1.418311455617242,
+    "final_training_loss": 0.2622690985399693
+}
